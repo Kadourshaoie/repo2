@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 18,
+    "window.autoDetectColorScheme": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.formatOnSave": true
+}
